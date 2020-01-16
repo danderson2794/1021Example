@@ -1,0 +1,16 @@
+To add files to a repo:
+git add <Name of File Here>
+
+
+To stage them to be pushed, 
+git commit -m 'Your message / comment here'
+
+To push to github:
+git push
+
+
+If you're already tracking the repo, git pull to update:
+git pull
+
+To add your repo on a new machine:
+git clone <URL Here>
